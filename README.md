@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Important! The server is located on render.com, and for the initial load, you need to wait 50 seconds. [Frontend Link](https://github.com/nk8bnj/weather-app-frontend)
+> Important! The server is located on render.com and you have to wait 50 seconds for the first load. [Frontend Link](https://github.com/nk8bnj/weather-app-frontend)
 
 <h2 align="center">Technologies Used</h2>
 
