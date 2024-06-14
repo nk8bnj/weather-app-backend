@@ -10,9 +10,10 @@
 
 <h2 align="center">Technologies Used</h2>
 
+- TypeScript
 - Node.js
 - Express.js
-- TypeScript
+- PostgreSQL
 - Prisma
 
 <h2 align="center">Running application locally</h2>
